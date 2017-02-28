@@ -1,0 +1,11 @@
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\bin\Debug\Greek-Nakama Tool.exe
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\bin\Debug\Greek-Nakama Tool.pdb
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\bin\Debug\Greek-Nakama Tool.xml
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\obj\x86\Debug\Greek_Nakama_Tool.Form1.resources
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\obj\x86\Debug\Greek_Nakama_Tool.Resources.resources
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\obj\x86\Debug\Greek-Nakama Tool.exe
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\obj\x86\Debug\Greek-Nakama Tool.xml
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\obj\x86\Debug\Greek-Nakama Tool.pdb

@@ -1,0 +1,35 @@
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\bin\Release\HTML Creator.exe
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\bin\Release\HTML Creator.pdb
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\bin\Release\HTML Creator.xml
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Release\HTML_Creator.Form1.resources
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Release\HTML_Creator.Form2.resources
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Release\HTML_Creator.Form3.resources
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Release\HTML_Creator.Resources.resources
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Release\HTML Creator.exe
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Release\HTML Creator.xml
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Release\HTML Creator.pdb
+G:\HTML Creator\HTML Creator\obj\x86\Release\HTML Creator.exe
+G:\HTML Creator\HTML Creator\obj\x86\Release\HTML Creator.xml
+G:\HTML Creator\HTML Creator\obj\x86\Release\HTML Creator.pdb
+H:\HTML Creator\HTML Creator\obj\x86\Release\HTML Creator.exe
+H:\HTML Creator\HTML Creator\obj\x86\Release\HTML Creator.xml
+H:\HTML Creator\HTML Creator\obj\x86\Release\HTML Creator.pdb
+H:\HTML Creator\HTML Creator\bin\Release\HTML Creator.exe
+H:\HTML Creator\HTML Creator\bin\Release\HTML Creator.pdb
+H:\HTML Creator\HTML Creator\bin\Release\HTML Creator.xml
+H:\HTML Creator\HTML Creator\obj\x86\Release\HTML_Creator.Main.resources
+H:\HTML Creator\HTML Creator\obj\x86\Release\HTML_Creator.Resources.resources
+H:\HTML Creator\HTML Creator\obj\x86\Release\HTML_Creator.Toolbar.resources
+H:\HTML Creator\HTML Creator\obj\x86\Release\HTML Creator.vbproj.GenerateResource.Cache
+H:\HTML Creator\HTML Creator\bin\Release\HTML Creator.exe.config
+H:\HTML Creator\HTML Creator\obj\x86\Release\HTML_Creator.Editor.resources
+H:\HTML Creator\HTML Creator\obj\x86\Release\HTML_Creator.Settings.resources
+H:\HTML Creator\HTML Creator\obj\x86\Release\HTML_Creator.Web.resources
+H:\HTML Creator\HTML Creator\obj\x86\Release\HTML_Creator.About.resources
+H:\Τα Προγράμματά μου\HTML Creator\HTML Creator\bin\Release\HTML Creator.exe.config
+H:\Τα Προγράμματά μου\HTML Creator\HTML Creator\obj\x86\Release\HTML Creator.exe
+H:\Τα Προγράμματά μου\HTML Creator\HTML Creator\obj\x86\Release\HTML Creator.xml
+H:\Τα Προγράμματά μου\HTML Creator\HTML Creator\obj\x86\Release\HTML Creator.pdb

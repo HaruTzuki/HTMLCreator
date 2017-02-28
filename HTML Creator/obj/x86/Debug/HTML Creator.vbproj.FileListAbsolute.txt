@@ -1,0 +1,63 @@
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\obj\x86\Debug\Greek-Nakama Tool.exe
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\obj\x86\Debug\Greek-Nakama Tool.xml
+C:\Users\Δημήτρης\AppData\Local\Temporary Projects\Greek-Nakama Tool\obj\x86\Debug\Greek-Nakama Tool.pdb
+c:\users\δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\bin\Debug\HTML Creator.exe
+c:\users\δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\bin\Debug\HTML Creator.pdb
+c:\users\δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\bin\Debug\HTML Creator.xml
+c:\users\δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Form1.resources
+c:\users\δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Resources.resources
+c:\users\δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.exe
+c:\users\δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.xml
+c:\users\δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.pdb
+G:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.exe
+G:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.xml
+G:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.pdb
+G:\HTML Creator\HTML Creator\bin\Debug\HTML Creator.exe
+G:\HTML Creator\HTML Creator\bin\Debug\HTML Creator.pdb
+G:\HTML Creator\HTML Creator\bin\Debug\HTML Creator.xml
+G:\HTML Creator\HTML Creator\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Form1.resources
+G:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Resources.resources
+G:\HTML Creator\HTML Creator\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\HTML Creator\HTML Creator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Form2.resources
+C:\Users\Δημήτρης\documents\visual studio 2010\Projects\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Form3.resources
+G:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Form2.resources
+G:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Form3.resources
+F:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.exe
+F:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.xml
+F:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.pdb
+I:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.exe
+I:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.xml
+I:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.pdb
+I:\HTML Creator\HTML Creator\bin\Debug\HTML Creator.exe
+I:\HTML Creator\HTML Creator\bin\Debug\HTML Creator.pdb
+I:\HTML Creator\HTML Creator\bin\Debug\HTML Creator.xml
+I:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Form1.resources
+I:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Form2.resources
+I:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Form3.resources
+I:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Resources.resources
+I:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.vbproj.GenerateResource.Cache
+H:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.exe
+H:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.xml
+H:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.pdb
+H:\HTML Creator\HTML Creator\bin\Debug\HTML Creator.exe
+H:\HTML Creator\HTML Creator\bin\Debug\HTML Creator.pdb
+H:\HTML Creator\HTML Creator\bin\Debug\HTML Creator.xml
+H:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Main.resources
+H:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Resources.resources
+H:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Toolbar.resources
+H:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.vbproj.GenerateResource.Cache
+H:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Editor.resources
+H:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Web.resources
+H:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.About.resources
+H:\HTML Creator\HTML Creator\obj\x86\Debug\HTML_Creator.Settings.resources
+H:\HTML Creator\HTML Creator\bin\Debug\HTML Creator.exe.config
+H:\HTML Creator\HTML Creator\obj\x86\Debug\HTML Creator.vbprojResolveAssemblyReference.cache
+C:\Users\HaruTzuki\Source\Repos\HTMLCreator\HTML Creator\bin\Debug\HTML Creator.exe.config
+C:\Users\HaruTzuki\Source\Repos\HTMLCreator\HTML Creator\obj\x86\Debug\HTML Creator.exe
+C:\Users\HaruTzuki\Source\Repos\HTMLCreator\HTML Creator\obj\x86\Debug\HTML Creator.xml
+C:\Users\HaruTzuki\Source\Repos\HTMLCreator\HTML Creator\obj\x86\Debug\HTML Creator.pdb
